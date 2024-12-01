@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="table_search">#ECECEC</color>
+    <color name="gray_txt1">#434343</color>
+    <color name="mainblue">#2A83FF</color>
+    <color name="sky_blue">#A2D2FF</color>
+    <color name="gray_txt2">#616161</color>
+    <color name="icon_color">#313131</color>
+    <color name="blue2">#004FA3</color>
+    <color name="dark_main">#130A32</color>
+    <color name="dark_txt2">#B6B6B6</color>
+    <color name="dark_table_search">#1A103B</color>
+
+
+
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="sddf">sddf</string>
+    <string name="todo">TODO</string>
+    <string name="fgfg">fgfg</string>
+    <string name="setting">تنظیمات</string>
+    <string name="trash">سطل زباله</string>
+    <string name="contact">ارتباط با ما</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="mynote">یادداشت من</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="button">Button</string>
+    <string name="cancel">cancel</string>
+    <string name="save">save</string>
+    <string name="notes">Notes</string>
+    <string name="check_notes">Check Notes</string>
+    <string name="todoخ">Todo</string>
+    <string name="my_notes">My Notes</string>
+    <string name="tgfhbfgh">TODO</string>
+    <string name="note_title">Note Title..</string>
+</resources>
